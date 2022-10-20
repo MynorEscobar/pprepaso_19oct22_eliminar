@@ -1,9 +1,10 @@
 # CodeIgniter 4 Development
 # Ejemplo 19oct2022
-esto es un ejemplo básico de Git y GitHub
--uno
--dos
--tres
+esto es un ejemplo básico de Git y GitHub:
+
+- uno
+- dos
+- tres
 
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions?query=workflow%3A%22PHPUnit%22)
